@@ -32,8 +32,8 @@ conference:
   image: 
   hide_tentative: true
   proceedings:
-    url: 
-    show: 
+    url: http://proceedings.mlr.press/r1/
+    show: true
   room: 
   venue: Radisson Bahia Mar Beach Resort
   venue_url: 
