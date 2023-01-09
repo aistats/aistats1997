@@ -1,0 +1,31 @@
+draft: false # set to True if the programme is draft only.
+image: 
+hide_tentative: true
+proceedings:
+  url: http://proceedings.mlr.press/r1/
+  show: true
+room: 
+venue: Radisson Bahia Mar Beach Resort
+venue_url: 
+location: Ft. Lauderdale, FL, USA
+full_name: Artificial Intelligence and Statistics
+short_name: AISTATS
+name: Artificial Intelligence and Statistics
+year: 1997
+instance: 6th
+styling: International Workshop on
+dates:
+- 1997-01-04
+- 1997-01-07
+chairs:
+- type: General Chair
+  people:
+  - family: Smyth
+    given: Padhraic
+    institute: JPL and UCI
+- type: Program Chair
+  people:
+  - family: Madigan
+    given: David
+    institute: University of Washington
+    url:
